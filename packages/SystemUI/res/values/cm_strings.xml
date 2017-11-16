@@ -122,4 +122,8 @@
     <string name="status_bar_camera">Camera</string>
     <string name="status_bar_location">Location</string>
     <string name="status_bar_microphone">Microphone</string>
+
+    <!-- Reboot/Recovery QS tile -->
+    <string name="quick_settings_reboot_label">Reboot</string>
+    <string name="quick_settings_reboot_recovery_label">Recovery</string>
 </resources>
